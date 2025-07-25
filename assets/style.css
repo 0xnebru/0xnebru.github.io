@@ -35,10 +35,14 @@ body {
 
 .header-logo img {
   height: 48px;
-  border-radius: 12px;
+  border-radius: 8px;
   box-shadow: 0 0 6px rgba(0,0,0,0.10);
-  background: #20222a;
+  background: none;
   transition: box-shadow .2s;
+  padding: 2px;
+  /* Ensure the image does not get cropped and has some spacing for the border radius */
+  object-fit: contain;
+  display: block;
 }
 .header-logo img:hover {
   box-shadow: 0 0 14px rgba(26,115,232,0.16);
