@@ -63,7 +63,7 @@ body {
   transform: translate(-50%, -50%);
   display: flex;
   justify-content: center;
-  gap: 1.3rem;
+  gap: 2.5rem;
 }
 .header-nav a {
   color: #e0e3eb;
