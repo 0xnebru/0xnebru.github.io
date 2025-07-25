@@ -43,8 +43,17 @@ body {
   object-fit: contain;
   display: block;
 }
-.header-logo img:hover {
+
+/* Unified hover effect for logo, nav, and social icons */
+.header-logo img:hover,
+.header-nav a:hover,
+.header-nav a:focus,
+.header-social a:hover,
+.header-social a:focus {
   box-shadow: 0 0 14px rgba(26,115,232,0.16);
+  color: #fff;
+  background: #1a73e8;
+  transition: box-shadow .2s, background .15s, color .15s;
 }
 
 .header-nav {
@@ -60,12 +69,7 @@ body {
   font-size: 1.13em;
   border-radius: 6px;
   padding: 0.45em 1em;
-  transition: background .15s, color .15s;
-}
-.header-nav a:hover,
-.header-nav a:focus {
-  color: #fff;
-  background: #1a73e8;
+  transition: background .15s, color .15s, box-shadow .2s;
 }
 
 .header-social {
@@ -75,20 +79,14 @@ body {
 .header-social a {
   color: #a6adc8;
   background: none;
-  border-radius: 0;
-  padding: 0;
+  border-radius: 6px;
+  padding: 0.4em;
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  transition: color .2s;
+  transition: color .2s, background .15s, box-shadow .2s;
   box-shadow: none;
   font-size: 1.3em;
-}
-.header-social a:hover,
-.header-social a:focus {
-  color: #1a73e8;
-  background: none;
-  box-shadow: none;
 }
 
 main {
@@ -127,7 +125,6 @@ footer {
   background: #1a73e8;
 }
 
-/* Modern newsletter form styles */
 .footer-newsletter .newsletter-form {
   background: #212436;
   border-radius: 14px;
