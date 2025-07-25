@@ -1,5 +1,9 @@
 title: "Nebru"
-description: "Music Composer"
-baseurl: "" # for user/organization site, keep this empty
-url: "" # set your custom domain or leave empty for github.io domain
-theme: minima # or leave blank for custom styling
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
+
+# Minimal Mistakes specific settings
+minimal_mistakes_skin: "air" # Try other skins!
+logo: "/assets/images/logo.png"
