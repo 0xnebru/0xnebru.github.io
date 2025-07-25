@@ -63,10 +63,13 @@
         <!-- Add footer social links here if needed -->
       </div>
       <div class="footer-newsletter">
-        <form action="https://example.us1.list-manage.com/subscribe/post" method="POST" target="_blank" novalidate>
-          <label for="newsletter-email">Subscribe to our newsletter:</label>
-          <input type="email" id="newsletter-email" name="EMAIL" placeholder="Enter your email" required>
-          <button type="submit">Subscribe</button>
+        <form class="newsletter-form" action="https://example.us1.list-manage.com/subscribe/post" method="POST" target="_blank" novalidate>
+          <label for="newsletter-email" class="newsletter-label">Subscribe to our newsletter</label>
+          <div class="newsletter-fields">
+            <input type="email" id="newsletter-email" name="EMAIL" class="newsletter-input" placeholder="Your email address" required>
+            <button type="submit" class="newsletter-btn">Subscribe</button>
+          </div>
+          <p class="newsletter-caption">No spam, just updates. Unsubscribe anytime.</p>
         </form>
       </div>
       <div class="footer-copyright">
