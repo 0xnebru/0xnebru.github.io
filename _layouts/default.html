@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ site.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="{{ site.description }}">
+  <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+  {% feed_meta %}
+</head>
+<body>
+  <main>
+    {{ content }}
+  </main>
+  <footer>
+    <div>
+      <strong>Follow me:</strong>
+      <a href="{{ site.social_links.twitter }}">Twitter</a> |
+      <a href="{{ site.social_links.instagram }}">Instagram</a> |
+      <a href="{{ site.social_links.youtube }}">YouTube</a>
+    </div>
+    <div>
+      <strong>Newsletter:</strong>
+      <form action="{{ '/feed.xml' | relative_url }}" method="get" style="display:inline;">
+        <button type="submit">Subscribe via RSS</button>
+      </form>
+      <small>(Subscribe with your favorite RSS reader)</small>
+    </div>
+    <div>
+      &copy; {{ site.time | date: "%Y" }} {{ site.title }}
+    </div>
+  </footer>
+</body>
+</html>
