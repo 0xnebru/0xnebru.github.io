@@ -5,6 +5,55 @@ body {
   background: #f8f9fa;
   color: #222;
 }
+.site-header {
+  background: #fff;
+  border-bottom: 1px solid #eee;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+.header-container {
+  max-width: 1000px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.5rem 1.5rem;
+}
+.header-logo img {
+  display: block;
+  height: 48px;
+}
+.header-nav {
+  flex: 1;
+  text-align: center;
+}
+.header-nav a {
+  color: #222;
+  text-decoration: none;
+  margin: 0 1.25rem;
+  font-weight: 500;
+  font-size: 1.1em;
+  transition: color .15s;
+}
+.header-nav a:hover,
+.header-nav a:focus {
+  color: #1a73e8;
+}
+.header-social {
+  display: flex;
+  gap: 1rem;
+}
+.header-social a {
+  display: inline-flex;
+  align-items: center;
+  color: #222;
+  transition: color .15s;
+}
+.header-social a:hover,
+.header-social a:focus {
+  color: #1a73e8;
+}
 main {
   max-width: 600px;
   margin: 2rem auto;
