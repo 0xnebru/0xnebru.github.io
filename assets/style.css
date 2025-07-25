@@ -40,7 +40,6 @@ body {
   background: none;
   transition: box-shadow .2s;
   padding: 2px;
-  /* Ensure the image does not get cropped and has some spacing for the border radius */
   object-fit: contain;
   display: block;
 }
@@ -137,6 +136,7 @@ footer {
   margin: 2em auto 0 auto;
   box-shadow: 0 4px 24px 0 rgba(26,115,232,0.08);
   text-align: center;
+  display: block;
 }
 .footer-newsletter .newsletter-label {
   display: block;
@@ -189,48 +189,6 @@ footer {
   margin-top: 0.5em;
   font-size: 0.93em;
   color: #a6adc8;
-}
-
-.footer-newsletter form {
-  display: block;
-  margin-bottom: 0.5em;
-  background: none;
-  box-shadow: none;
-  padding: 0;
-  max-width: none;
-}
-
-.footer-newsletter button {
-  background: none;
-  border: none;
-  color: inherit;
-  font-family: inherit;
-  font-size: inherit;
-  border-radius: none;
-  padding: 0;
-  cursor: pointer;
-  transition: none;
-  box-shadow: none;
-}
-.footer-newsletter button:hover {
-  background: none;
-}
-
-.footer-newsletter small {
-  display: none;
-}
-
-.footer-copyright {
-  color: #606270;
-  margin-top: 1em;
-  font-size: 0.97em;
-}
-
-a { color: #53a7ff; text-decoration: none; }
-a:hover { text-decoration: underline; }
-
-ul {
-  padding-left: 1.5em;
 }
 
 @media (max-width: 700px) {
