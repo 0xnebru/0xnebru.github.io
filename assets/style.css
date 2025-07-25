@@ -71,20 +71,21 @@ body {
 }
 .header-social a {
   color: #a6adc8;
-  background: #232634;
-  border-radius: 50%;
-  padding: 0.35em;
+  background: none;
+  border-radius: 0;
+  padding: 0;
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  transition: background .2s, color .2s, box-shadow .2s;
-  box-shadow: 0 1px 4px rgba(26,115,232,0.10);
+  transition: color .2s;
+  box-shadow: none;
+  font-size: 1.3em;
 }
 .header-social a:hover,
 .header-social a:focus {
-  color: #fff;
-  background: #1a73e8;
-  box-shadow: 0 2px 8px rgba(26,115,232,0.24);
+  color: #1a73e8;
+  background: none;
+  box-shadow: none;
 }
 
 main {
