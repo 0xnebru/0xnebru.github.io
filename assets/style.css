@@ -6,11 +6,14 @@ body {
   color: #222;
 }
 .site-header {
+  width: 100%;
   background: #fff;
   border-bottom: 1px solid #eee;
   position: sticky;
   top: 0;
   z-index: 100;
+  /* Remove max-width/margin if present */
+  /* No centering here */
 }
 .header-container {
   max-width: 1000px;
@@ -19,6 +22,8 @@ body {
   align-items: center;
   justify-content: space-between;
   padding: 0.5rem 1.5rem;
+  width: 100%;
+  box-sizing: border-box;
 }
 .header-logo img {
   display: block;
