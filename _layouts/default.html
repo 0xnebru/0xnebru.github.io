@@ -13,7 +13,7 @@
       <div class="header-container">
         <div class="header-logo">
           <a href="{{ '/' | relative_url }}">
-            <img src="{{ '/images/istitart_sandria_white.png' | relative_url }}" alt="{{ site.title }} logo">
+            <img src="{{ '/images/isitart_sandria_white.png' | relative_url }}" alt="{{ site.title }} logo">
           </a>
         </div>
         <nav class="header-nav" aria-label="Main navigation">
@@ -28,10 +28,10 @@
               <path d="M22.46 5.924c-.793.352-1.647.59-2.543.698a4.447 4.447 0 0 0 1.957-2.454 8.865 8.865 0 0 1-2.814 1.075 4.432 4.432 0 0 0-7.545 4.04A12.576 12.576 0 0 1 3.11 4.9a4.426 4.426 0 0 0 1.373 5.914 4.42 4.42 0 0 1-2.008-.555v.057a4.43 4.43 0 0 0 3.557 4.339 4.462 4.462 0 0 1-2.002.076 4.434 4.434 0 0 0 4.14 3.076A8.888 8.888 0 0 1 2 19.54a12.543 12.543 0 0 0 6.8 1.994c8.154 0 12.615-6.754 12.615-12.614 0-.192-.004-.383-.013-.573a9.045 9.045 0 0 0 2.22-2.302z"/>
             </svg>
           </a>
-          <!-- GitHub -->
-          <a href="https://github.com/YOUR_PROFILE" aria-label="GitHub" target="_blank" rel="noopener">
+          <!-- YouTube -->
+          <a href="https://youtube.com/YOUR_PROFILE" aria-label="YouTube" target="_blank" rel="noopener">
             <svg width="24" height="24" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
-              <path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.387.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.726-4.042-1.416-4.042-1.416-.546-1.387-1.333-1.757-1.333-1.757-1.089-.745.084-.729.084-.729 1.205.084 1.84 1.236 1.84 1.236 1.07 1.834 2.809 1.304 3.495.997.108-.775.418-1.305.762-1.605-2.665-.305-5.467-1.334-5.467-5.93 0-1.31.469-2.381 1.236-3.221-.124-.303-.535-1.523.117-3.176 0 0 1.008-.322 3.301 1.23a11.51 11.51 0 0 1 3.003-.404c1.018.005 2.045.138 3.003.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.873.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.371.823 1.102.823 2.222 0 1.604-.015 2.896-.015 3.286 0 .319.216.694.825.576C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"/>
+              <path d="M23.498 6.186a2.93 2.93 0 0 0-2.06-2.066C19.34 3.5 12 3.5 12 3.5s-7.34 0-9.438.62A2.93 2.93 0 0 0 .5 6.186C0 8.287 0 12 0 12s0 3.713.5 5.814a2.93 2.93 0 0 0 2.062 2.066C4.66 20.5 12 20.5 12 20.5s7.34 0 9.438-.62a2.93 2.93 0 0 0 2.06-2.066C24 15.713 24 12 24 12s0-3.713-.502-5.814zM9.545 16.02v-8.04l7.272 4.02-7.272 4.02z"/>
             </svg>
           </a>
           <!-- SoundCloud -->
@@ -63,7 +63,11 @@
         <!-- Add footer social links here if needed -->
       </div>
       <div class="footer-newsletter">
-        <!-- Add newsletter form if needed -->
+        <form action="https://example.us1.list-manage.com/subscribe/post" method="POST" target="_blank" novalidate>
+          <label for="newsletter-email">Subscribe to our newsletter:</label>
+          <input type="email" id="newsletter-email" name="EMAIL" placeholder="Enter your email" required>
+          <button type="submit">Subscribe</button>
+        </form>
       </div>
       <div class="footer-copyright">
         &copy; {{ site.time | date: "%Y" }} {{ site.title }}. All rights reserved.
