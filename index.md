@@ -29,7 +29,7 @@ Here you'll find the latest updates, featured works, and more.
   <div class="gallery-images">
     <figure>
       <a href="https://too.fm/ethereal-break" target="_blank">
-        <img src="/imagesETHEREAL BREAK.png" alt="Vivid Sunrise">
+        <img src="/images/ETHEREAL BREAK.png" alt="Vivid Sunrise">
       </a>
       <figcaption>
         <strong>FOST & NEBRU - ETHEREAL BREAK</strong>
