@@ -86,7 +86,11 @@ body {
   padding: 0.4em;
   display: inline-flex;
   align-items: center;
-  justify-content: center;
+  justify-content: flex-end;
+  position: absolute;
+  right: 2rem;
+  top: 50%;
+  transform: translateY(-50%);
   transition: color .2s, background .15s, box-shadow .2s;
   box-shadow: none;
   font-size: 1.3em;
