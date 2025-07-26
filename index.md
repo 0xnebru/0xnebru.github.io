@@ -5,7 +5,7 @@ title: Home
 
 <section class="image-gallery">
   <h2 class="gallery-title">MUSIQUE</h2>
-  <p class="gallery-description">A curated selection of recent pieces. Click an image to view it larger.</p>
+  <!-- <p class="gallery-description">A curated selection of recent pieces. Click an image to view it larger.</p> -->
   <div class="gallery-images">
     <figure>
       <a href="https://too.fm/ethereal-break" target="_blank">
