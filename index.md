@@ -31,6 +31,22 @@ title: Home
         <strong>PERSONA</strong>
       </figcaption>
     </figure>
+    <figure>
+      <a href="https://too.fm/hardbreaks_heavyriffs_smoothvoices" target="_blank">
+        <img src="/images/hard_breaks_site.png" alt="Urban Stillness">
+      </a>
+      <figcaption>
+        <strong>HARD BREAKS, HEAVY RIFFS AND SMOOTH VOICES</strong>
+      </figcaption>
+    </figure>
+    <figure>
+      <a href="https://too.fm/nebru-cxlxstical-take" target="_blank">
+        <img src="/images/afterlife_vf.png" alt="Urban Stillness">
+      </a>
+      <figcaption>
+        <strong>TAKE</strong>
+      </figcaption>
+    </figure>
     <!-- Add more images as needed -->
   </div>
 </section>
