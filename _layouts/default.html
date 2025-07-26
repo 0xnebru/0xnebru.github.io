@@ -64,16 +64,15 @@
       </div>
       <div class="footer-newsletter">
         <form class="newsletter-form" action="https://example.us1.list-manage.com/subscribe/post" method="POST" target="_blank" novalidate>
-          <label for="newsletter-email" class="newsletter-label">Subscribe to our newsletter</label>
+          <label for="newsletter-email" class="newsletter-label">Pour recevoir les nouveautés</label>
           <div class="newsletter-fields">
-            <input type="email" id="newsletter-email" name="EMAIL" class="newsletter-input" placeholder="Your email address" required>
-            <button type="submit" class="newsletter-btn">Subscribe</button>
+            <input type="email" id="newsletter-email" name="EMAIL" class="newsletter-input" placeholder="Email" required>
+            <button type="submit" class="newsletter-btn">S'inscrire</button>
           </div>
-          <p class="newsletter-caption">No spam, just updates. Unsubscribe anytime.</p>
         </form>
       </div>
       <div class="footer-copyright">
-        &copy; {{ site.time | date: "%Y" }} {{ site.title }}. All rights reserved.
+        &copy; {{ site.time | date: "%Y" }} {{ site.title }}.
       </div>
     </footer>
   </body>
