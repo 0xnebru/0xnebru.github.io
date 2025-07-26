@@ -24,33 +24,33 @@ Welcome! I compose, produce, and design music for film, games, and digital media
 Here you'll find the latest updates, featured works, and more.
 
 <section class="image-gallery">
-  <h2 class="gallery-title">Featured Artworks</h2>
+  <h2 class="gallery-title">MUSIQUE</h2>
   <p class="gallery-description">A curated selection of recent pieces. Click an image to view it larger.</p>
   <div class="gallery-images">
     <figure>
-      <a href="/images/art1-large.jpg" target="_blank">
-        <img src="/images/art1-thumb.jpg" alt="Vivid Sunrise">
+      <a href="https://too.fm/ethereal-break" target="_blank">
+        <img src="/imagesETHEREAL BREAK.png" alt="Vivid Sunrise">
       </a>
       <figcaption>
-        <strong>Vivid Sunrise</strong>
+        <strong>FOST & NEBRU - ETHEREAL BREAK</strong>
         <span>Oil on canvas, 2024</span>
       </figcaption>
     </figure>
     <figure>
-      <a href="/images/art2-large.jpg" target="_blank">
-        <img src="/images/art2-thumb.jpg" alt="Dreamscape">
+      <a href="https://too.fm/persona-ii" target="_blank">
+        <img src="/images/persona_II_final2.png" alt="Dreamscape">
       </a>
       <figcaption>
-        <strong>Dreamscape</strong>
+        <strong>PERSONA II</strong>
         <span>Digital composition, 2025</span>
       </figcaption>
     </figure>
     <figure>
-      <a href="/images/art3-large.jpg" target="_blank">
-        <img src="/images/art3-thumb.jpg" alt="Urban Stillness">
+      <a href="https://too.fm/persona" target="_blank">
+        <img src="/images/persona_v1.png" alt="Urban Stillness">
       </a>
       <figcaption>
-        <strong>Urban Stillness</strong>
+        <strong>PERSONA</strong>
         <span>Photography, 2024</span>
       </figcaption>
     </figure>
