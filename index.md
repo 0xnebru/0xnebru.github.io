@@ -3,14 +3,6 @@ layout: default
 title: Home
 ---
 
-# Welcome!
-
-<div class="subtitle">Music Composer • Producer • Sound Designer</div>
-
-Welcome! I compose, produce, and design music for film, games, and digital media.
-
-Here you'll find the latest updates, featured works, and more.
-
 <section class="image-gallery">
   <h2 class="gallery-title">MUSIQUE</h2>
   <p class="gallery-description">A curated selection of recent pieces. Click an image to view it larger.</p>
