@@ -139,8 +139,8 @@ main {
 }
 .gallery-images img {
   border-radius: 8px;
-  max-width: 170px;
-  max-height: 170px;
+  max-width: 220px;
+  max-height: 220px;
   width: 100%;
   object-fit: cover;
   margin-bottom: 0.7em;
