@@ -108,7 +108,7 @@ main {
   text-align: center;
 }
 .gallery-title {
-  font-size: 1.5em;
+  font-size: 2em;
   color: #fff;
   margin-bottom: 0.3em;
   font-family: 'Bebas Neue', sans-serif;
@@ -155,7 +155,7 @@ main {
 }
 .gallery-images figcaption {
   color: #e0e3eb;
-  font-size: 1em;
+  font-size: 1.5em;
   margin-bottom: 0.2em;
   display: flex;
   flex-direction: column;
