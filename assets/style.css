@@ -1,12 +1,12 @@
 @font-face {
-  font-family: 'Space Grotesk';
-  src: url('/font/SpaceGrotesk-Medium.ttf') format('truetype');
+  font-family: 'Bebas Neue';
+  src: url('/font/BebasNeue-Regular.ttf') format('truetype');
   font-weight: 500;
   font-style: normal;
   font-display: swap;
 }
 body {
-  font-family: 'Space Grotesk', sans-serif;
+  font-family: 'Bebas Neue', sans-serif;
   background: #15171c;
   color: #f5f6fa;
   margin: 0;
@@ -111,7 +111,7 @@ main {
   font-size: 1.5em;
   color: #fff;
   margin-bottom: 0.3em;
-  font-family: 'Space Grotesk', sans-serif;
+  font-family: 'Bebas Neue', sans-serif;
   letter-spacing: 0.01em;
   font-weight: 700;
 }
