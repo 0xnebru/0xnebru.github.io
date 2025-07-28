@@ -1,4 +1,5 @@
 title: "Nebru"
+url: "https://0xnebru.github.io"
 remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-feed
