@@ -13,9 +13,8 @@
       <title>{{ post.title | xml_escape }}</title>
       <link>https://0xnebru.github.io</link>
       <guid>https://0xnebru.github.io</guid>
-      <pubDate>{{ site.time | date: '%Y' }}</pubDate>
+      <pubDate>{{ post.date | date: "%a, %d, %b %Y %H:%M:%S %z" }}</pubDate>
       <description>{{ post.excerpt | xml_escape }}</description>
     </item>
-    {% endfor %}
   </channel>
 </rss>
