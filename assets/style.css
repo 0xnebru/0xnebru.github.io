@@ -1,12 +1,12 @@
 @font-face {
   font-family: 'IntelOneMono';
-  src: url('/font/BebasNeue-Regular.ttf') format('truetype');
+  src: url('/font/IntelOneMono-Light.ttf') format('truetype');
   font-weight: 500;
   font-style: normal;
   font-display: swap;
 }
 body {
-  font-family: 'BebasNeue', sans-serif;
+  font-family: 'IntelOneMono', sans-serif;
   background: #15171c;
   color: #f5f6fa;
   margin: 0;
