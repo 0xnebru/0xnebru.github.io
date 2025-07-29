@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'IntelOneMono';
   src: url('/font/IntelOneMono-Light.ttf') format('truetype');
-  font-weight: 500;
+  font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
@@ -160,6 +160,7 @@ main {
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-content: center;
 }
 .gallery-images figcaption strong {
   color: #fff;
@@ -260,6 +261,9 @@ footer {
   margin-top: 0.5em;
   font-size: 0.93em;
   color: #a6adc8;
+}
+.footer-copyright {
+font-family: 'BebasNeue', sans-serif;
 }
 
 @media (max-width: 1200px) {
