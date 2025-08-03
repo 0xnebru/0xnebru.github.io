@@ -86,9 +86,6 @@ body {
   transform: translateY(-50%);
   color: #fff;
 }
-.header-social img {
-  filter: brightness(0) invert(1);
-}
 
 main {
   max-width: 900px;
