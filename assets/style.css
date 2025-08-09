@@ -35,7 +35,7 @@ body {
 
 .header-logo img {
   height: 48px;
-  border-radius: 8px;
+  border-radius: 0px;
   background: none;
   transition: box-shadow .2s;
   padding: 2px;
