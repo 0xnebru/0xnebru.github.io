@@ -36,7 +36,6 @@ body {
 .header-logo img {
   height: 48px;
   border-radius: 8px;
-  box-shadow: 0 0 6px rgba(0,0,0,0.10);
   background: none;
   transition: box-shadow .2s;
   padding: 2px;
@@ -45,7 +44,6 @@ body {
 }
 
 /* Unified hover effect for logo, nav, and social icons */
-.header-logo img:hover,
 .header-nav a:hover,
 .header-nav a:focus {
   box-shadow: 0 0 14px rgba(26,115,232,0.16);
@@ -58,6 +56,10 @@ body {
 .header-social a:focus {
   transform: scale(1.25);
   transition: transform 0.19s;
+}
+
+.header-logo img:hover {
+  box-shadow: 0 0 14px rgba(26,115,232,0.16);
 }
 
 .header-nav {
