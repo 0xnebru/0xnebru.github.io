@@ -212,6 +212,7 @@ footer {
   margin: 2em auto 0 auto;
   text-align: center;
   display: block;
+  font-family: 'Intel One Mono', sans-serif
 }
 .footer-newsletter .newsletter-label {
   display: block;
