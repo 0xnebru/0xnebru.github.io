@@ -17,7 +17,7 @@ body {
   width: 100%;
   background: #181a20;
   border-bottom: 1px solid #232634;
-  position: sticky;
+  position: relative;
   top: 0;
   z-index: 100;
   box-shadow: 0 2px 10px 0 rgba(26,30,41,0.22);
