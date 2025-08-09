@@ -51,7 +51,7 @@ body {
 .header-social a:hover,
 .header-social a:focus {
   box-shadow: 0 0 14px rgba(26,115,232,0.16);
-  color: #fff;
+  color: #0000;
   transition: box-shadow .2s, background .15s, color .15s;
 }
 
@@ -90,7 +90,7 @@ main {
   max-width: 900px;
   margin: 2.5rem auto 2rem auto;
   padding: 2.5rem 1.5rem;
-  background: #181a20;
+  background: #f5f6fa;
   border-radius: 18px;
   box-shadow: 0 4px 24px rgba(26,30,41,0.22);
 }
@@ -151,7 +151,7 @@ main {
   transform: scale(1.045);
 }
 .gallery-images figcaption {
-  color: #e0e3eb;
+  color: #15171c;
   font-size: 1.2em;
   margin-bottom: 0.2em;
   display: flex;
@@ -160,7 +160,7 @@ main {
   justify-content: center;
 }
 .gallery-images figcaption strong {
-  color: #fff;
+  color: #15171c;
   font-weight: 700;
   font-size: 1.07em;
   margin-bottom: 0.13em;
@@ -168,7 +168,7 @@ main {
 }
 .gallery-images figcaption span {
   font-size: 0.95em;
-  color: #a6adc8;
+  color: #15171c;
 }
 
 footer {
@@ -213,7 +213,7 @@ footer {
   margin-bottom: 1em;
   font-weight: 700;
   letter-spacing: 0.01em;
-  color: #0000;
+  color: #15171c;
   font-family: 'Intel One Mono', sans-serif;
 }
 .footer-newsletter .newsletter-fields {
@@ -241,8 +241,8 @@ footer {
   padding: 0.75em 1.3em;
   border: none;
   border-radius: 0 6px 6px 0;
-  background: linear-gradient(90deg,#1a73e8 0%,#7b61ff 100%);
-  color: #fff;
+  background: linear-gradient(90deg,#15171c 0%,#15171c 100%);
+  color: #f5f6fa;
   font-weight: 700;
   font-size: 1em;
   cursor: pointer;
