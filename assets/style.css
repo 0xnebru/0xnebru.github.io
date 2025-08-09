@@ -7,16 +7,15 @@
 }
 body {
   font-family: 'IntelOneMono', sans-serif;
-  background: #15171c;
-  color: #f5f6fa;
+  background: #f5f6fa;
+  color: #15171c;
   margin: 0;
   padding: 0;
 }
 
 .site-header {
   width: 100%;
-  background: #181a20;
-  border-bottom: 1px solid #232634;
+  background: #f5f6fa;
   position: relative;
   top: 0;
   z-index: 100;
@@ -66,7 +65,7 @@ body {
   gap: 1.3rem; /* Reduced space between nav elements */
 }
 .header-nav a {
-  color: #e0e3eb;
+  color: #15171c;
   text-decoration: none;
   font-weight: 500;
   font-size: 1.13em;
@@ -84,7 +83,7 @@ body {
   right: 2rem;
   top: 50%;
   transform: translateY(-50%);
-  color: #fff;
+  color: #0000;
 }
 
 main {
@@ -100,21 +99,21 @@ main {
   max-width: 1200px;
   margin: 2.5em auto 2em auto;
   padding: 1.5em 1em 2em 1em;
-  background: #181a20;
+  background: #f5f6fa;
   border-radius: 18px;
   box-shadow: 0 2px 16px rgba(26,30,41,0.16);
   text-align: center;
 }
 .gallery-title {
   font-size: 2em;
-  color: #fff;
+  color: #000000;
   margin-bottom: 0.3em;
   font-family: 'BebasNeue', sans-serif;
   letter-spacing: 0.01em;
   font-weight: 700;
 }
 .gallery-description {
-  color: #a6adc8;
+  color: #15171c;
   font-size: 1.07em;
   margin-bottom: 2em;
 }
@@ -214,7 +213,7 @@ footer {
   margin-bottom: 1em;
   font-weight: 700;
   letter-spacing: 0.01em;
-  color: #fff;
+  color: #0000;
   font-family: 'Intel One Mono', sans-serif;
 }
 .footer-newsletter .newsletter-fields {
@@ -228,8 +227,8 @@ footer {
   border: none;
   border-radius: 6px 0 0 6px;
   font-size: 1em;
-  background: #272a3d;
-  color: #fff;
+  background: #f5f6fa;
+  color: #0000;
   outline: none;
   transition: box-shadow 0.2s, border 0.2s;
   box-shadow: 0 1px 4px rgba(26,115,232,0.08);
