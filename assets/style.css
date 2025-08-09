@@ -57,7 +57,7 @@ body {
 .header-social a:hover,
 .header-social a:focus {
   transform: scale(1.2);
-  transition: box-shadow .2s, transform 0.19s;
+  transition: transform 0.19s;
 }
 
 .header-nav {
@@ -256,8 +256,9 @@ footer {
 }
 .footer-newsletter .newsletter-btn:hover,
 .footer-newsletter .newsletter-btn:focus {
-  background: linear-gradient(90deg,#1758be 0%,#6246ea 100%);
   box-shadow: 0 2px 8px rgba(26,115,232,0.16);
+  transform: scale(1.2);
+  transition: box-shadow .2s, transform 0.19s;
 }
 .footer-newsletter .newsletter-caption {
   margin-top: 0.5em;
