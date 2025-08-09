@@ -235,6 +235,7 @@ footer {
   background: #f5f6fa;
   color: #15171c;
   outline: none;
+  font-family: 'Intel One Mono', sans-serif;
   transition: box-shadow 0.2s, border 0.2s;
   box-shadow: 0 1px 4px rgba(26,115,232,0.08);
 }
@@ -250,6 +251,7 @@ footer {
   color: #f5f6fa;
   font-weight: 700;
   font-size: 1em;
+  font-family: 'Intel One Mono', sans-serif;
   cursor: pointer;
   transition: background 0.18s, box-shadow 0.18s;
   box-shadow: 0 1px 4px rgba(26,115,232,0.10);
