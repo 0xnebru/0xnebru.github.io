@@ -53,12 +53,14 @@ body {
   background: #15171c;
   transition: box-shadow .2s, background .15s, color .15s;
 }
+
 .header-social a:hover,
 .header-social a:focus, {
   box-shadow: 0 0 14px rgba(26,115,232,0.16);
   transform: scale(1.045);
   transition: box-shadow .2s, transform 0.19s;
 }
+
 .header-nav {
   position: absolute;
   left: 50%;
@@ -68,6 +70,7 @@ body {
   justify-content: center;
   gap: 1.3rem; /* Reduced space between nav elements */
 }
+
 .header-nav a {
   color: #15171c;
   text-decoration: none;
