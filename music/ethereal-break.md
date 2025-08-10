@@ -23,12 +23,12 @@ permalink: /ethereal-break/
       </figcaption>
     </figure>
   </div>
-    <ul class="main">
-    <li>spotify</li>
-    <li>apple music</li>
-    <li>soundcloud</li>
-    <li>youtube</li>
-    <li>deezer</li>
-  </ul>
+  <div class="main">
+    <p><a href="https://example.com/constellation" target="_blank">spotify</a></p>
+    <p><a href="https://example.com/sans-mot" target="_blank">apple music</a></p>
+    <p><a href="https://example.com/bouclier" target="_blank">soundcloud</a></p>
+    <p><a href="https://example.com/bout-du-monde" target="_blank">youtube</a></p>
+    <p><a href="https://example.com/impossible" target="_blank">deezer</a></p>
+  </div>
 </section>
 
