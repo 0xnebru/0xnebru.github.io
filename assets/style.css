@@ -97,7 +97,7 @@ body {
 main {
   max-width: 900px;
   margin: 2.5rem auto 2rem auto;
-  padding: 2.5rem 1.5rem;
+  padding: 0rem 1.5rem;
   background: #f5f6fa;
   border-radius: 18px;
 }
