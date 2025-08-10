@@ -8,7 +8,7 @@ title: Nebru
   <!-- <p class="gallery-description">A curated selection of recent pieces. Click an image to view it larger.</p> -->
   <div class="gallery-images">
     <figure>
-      <a href="https://too.fm/ethereal-break" target="_blank">
+      <a href="https://0xnebru.github.io/ethereal-break" target="_blank">
         <img src="/images/ETHEREAL BREAK.png" alt="Vivid Sunrise">
       </a>
       <figcaption>
