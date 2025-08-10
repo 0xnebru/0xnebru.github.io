@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Ethereal Break
+permalink: /music/ethereal-break/
 ---
 
 <section class="image-gallery">
