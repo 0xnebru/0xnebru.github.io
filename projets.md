@@ -1,6 +1,6 @@
 ---
 layout: default
-title: projets
+title: Projets
 ---
 
 <section class="image-gallery">
