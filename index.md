@@ -32,7 +32,7 @@ title: Nebru
       </figcaption>
     </figure>
     <figure>
-      <a href="https://too.fm/hardbreaks_heavyriffs_smoothvoices" target="_blank">
+      <a href="/hard-breaks" target="_blank">
         <img src="/images/hard_breaks_site.png" alt="Urban Stillness">
       </a>
       <figcaption>
