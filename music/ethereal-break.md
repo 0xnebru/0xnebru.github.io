@@ -13,12 +13,12 @@ permalink: /ethereal-break/
         <img src="/images/ETHEREAL BREAK.png" alt="Vivid Sunrise">
       </a>
       <figcaption>
-        <strong>01. Constellation
-        02. Sans mot
-        03. Bouclier
-        04. Bout du monde
-        05. Impossible
-        06. Addiction remix
+        <strong>01. Constellation<br>
+        02. Sans mot<br>
+        03. Bouclier<br>
+        04. Bout du monde<br>
+        05. Impossible<br>
+        06. Addiction remix<br>
         07. Force remix</strong>
       </figcaption>
     </figure>
