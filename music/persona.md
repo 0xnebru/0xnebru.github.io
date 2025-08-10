@@ -13,7 +13,7 @@ permalink: /persona/
         <img src="/images/persona_v1.png" alt="Urban Stillness">
       </a>
       <figcaption>
-        <strong>01. Everywhere I look (ft. Dreamy Artis<br>
+        <strong>01. Everywhere I look (ft. Dreamy Artis)<br>
         02. Feels like poison (ft. Dczr)<br>
         03. Elevation<br>
         04. Last night<br>
