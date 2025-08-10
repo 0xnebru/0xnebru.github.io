@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Collab
+title: collab
+url: /collab/
 ---
 
 <section class="image-gallery">
