@@ -24,7 +24,7 @@ title: Nebru
       </figcaption>
     </figure>
     <figure>
-      <a href="https://too.fm/persona" target="_blank">
+      <a href="/persona" target="_blank">
         <img src="/images/persona_v1.png" alt="Urban Stillness">
       </a>
       <figcaption>
