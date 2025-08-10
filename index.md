@@ -16,7 +16,7 @@ title: Nebru
       </figcaption>
     </figure>
     <figure>
-      <a href="https://too.fm/persona-ii" target="_blank">
+      <a href="/persona-II" target="_blank">
         <img src="/images/persona_II_final2.png" alt="Dreamscape">
       </a>
       <figcaption>
