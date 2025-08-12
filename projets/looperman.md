@@ -10,7 +10,7 @@ permalink: /looperman/
   <div class="gallery-images">
     <figure>
       <a href="https://www.looperman.com/users/profile/4424829" target="_blank">
-        <img src="/images/hard_breaks_site.png" alt="Urban Stillness">
+        <img src="/images/looperman.png" alt="Urban Stillness">
       </a>
       <figcaption>
         <strong>Publication de loops libre de droits sur Looperman</strong>
