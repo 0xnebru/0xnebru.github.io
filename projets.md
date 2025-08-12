@@ -9,7 +9,7 @@ title: Projets
   <div class="gallery-images">
     <figure>
       <a href="/looperman" target="_blank">
-        <img src="" alt="Vivid Sunrise">
+        <img src="/images/looperman2.png" alt="Vivid Sunrise">
       </a>
       <figcaption>
         <strong>LOOPERMAN</strong>
