@@ -147,6 +147,10 @@ main {
   transition: transform 0.19s;
 }
 
+.gallery-row a:hover img {
+  transform: scale(1.045);
+}
+
 .gallery-images {
   display: flex;
   flex-wrap: wrap;
