@@ -26,7 +26,7 @@ permalink: /ethereal-break/
     </figcaption>
 </div>
 
-<div class="imaage-gallery">
+<div class="image-gallery">
     <p><a href="https://open.spotify.com/intl-fr/album/3ZmC3n91Wm2eiPQxI6vqE4" target="_blank">spotify</a></p>
     <p><a href="https://music.apple.com/us/album/ethereal-break/1776017357" target="_blank">apple music</a></p>
     <p><a href="https://soundcloud.com/nebru/sets/ethereal-break" target="_blank">soundcloud</a></p>
