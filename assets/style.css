@@ -95,7 +95,7 @@ body {
 }
 
 main {
-  max-width: 900px;
+  max-width: 1300px;
   margin: 2.5rem auto 2rem auto;
   padding: 0rem 1.5rem;
   background: #f5f6fa;
@@ -103,7 +103,7 @@ main {
 }
 
 .image-gallery {
-  max-width: 1200px;
+  max-width: 1300px;
   margin: 2.5em auto 2em auto;
   padding: 0.1em 1em 2em 1em;
   background: #f5f6fa;
