@@ -347,7 +347,7 @@ font-family: 'BebasNeue', sans-serif;
 }
 @media (max-width: 600px) {
   .image-gallery {
-    padding: 1em 0.1em 1em 0.1em;
+    padding: 0em 0.1em 1em 0.1em;
   }
   .gallery-images {
     flex-direction: column;
@@ -370,7 +370,7 @@ font-family: 'BebasNeue', sans-serif;
 
 @media (max-width: 480px) {
   .footer-newsletter .newsletter-form {
-    padding: 1em 0.5em 1em 0.5em;
+    padding: 0em 0.5em 1em 0.5em;
     max-width: 100%;
   }
   .footer-newsletter .newsletter-fields {
