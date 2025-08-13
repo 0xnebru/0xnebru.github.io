@@ -136,6 +136,14 @@ main {
   max-width: 500px; 
 }
 
+.gallery-row figcaption {
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  justify-content: center;
+  max-width: 280px;
+}
+
 .gallery-row img {
   border-radius: 8px;
   max-width: 250px;
