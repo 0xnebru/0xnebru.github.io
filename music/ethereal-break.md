@@ -15,17 +15,18 @@ permalink: /ethereal-break/
     </a>
   </figure>
     <figcaption>
-      <strong>01. Constellation<br>
-      02. Sans mot<br>
-      03. Bouclier<br>
-      04. Bout du monde<br>
-      05. Impossible<br>
-      06. Addiction remix<br>
-      07. Force remix</strong>
+        <br>
+        <strong>01. Constellation<br><br>
+        02. Sans mot<br><br>
+        03. Bouclier<br><br>
+        04. Bout du monde<br><br>
+        05. Impossible<br><br>
+        06. Addiction remix<br><br>
+        07. Force remix</strong>
     </figcaption>
 </div>
 
-<div class="gallery-images">
+<div class="imaage-gallery">
     <p><a href="https://open.spotify.com/intl-fr/album/3ZmC3n91Wm2eiPQxI6vqE4" target="_blank">spotify</a></p>
     <p><a href="https://music.apple.com/us/album/ethereal-break/1776017357" target="_blank">apple music</a></p>
     <p><a href="https://soundcloud.com/nebru/sets/ethereal-break" target="_blank">soundcloud</a></p>
