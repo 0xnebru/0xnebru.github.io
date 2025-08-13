@@ -123,6 +123,19 @@ main {
   font-size: 1.07em;
   margin-bottom: 2em;
 }
+
+.gallery-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 7rem; 
+  justify-content: center;
+}
+
+.gallery-row .main {
+  text-align: left;
+  max-width: 500px; 
+}
+
 .gallery-images {
   display: flex;
   flex-wrap: wrap;
