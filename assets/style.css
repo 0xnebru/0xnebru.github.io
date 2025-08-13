@@ -136,6 +136,17 @@ main {
   max-width: 500px; 
 }
 
+.gallery-row img {
+  border-radius: 8px;
+  max-width: 250px;
+  max-height: 250px;
+  width: 100%;
+  object-fit: cover;
+  margin-bottom: 0.7em;
+  box-shadow: 0 1px 4px rgba(26,115,232,0.08);
+  transition: transform 0.19s;
+}
+
 .gallery-images {
   display: flex;
   flex-wrap: wrap;
