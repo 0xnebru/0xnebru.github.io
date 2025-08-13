@@ -16,7 +16,7 @@ permalink: /ethereal-break/
       <img src="/images/ETHEREAL BREAK.png" alt="Vivid Sunrise">
     </a>
   </figure>
-    <figcaption
+    <figcaption>
         <strong>01. Constellation<br><br>
         02. Sans mot<br><br>
         03. Bouclier<br><br>
