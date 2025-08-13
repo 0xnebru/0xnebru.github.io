@@ -8,23 +8,21 @@ permalink: /ethereal-break/
   <h2 class="gallery-title">ETHEREAL BREAK</h2>
 </div>
 
-  <div class="gallery-row">
-    <figure>
-      <a href="https://too.fm/ethereal-break" target="_blank">
-        <img src="/images/ETHEREAL BREAK.png" alt="Vivid Sunrise">
-      </a>
-    </figure>
-      <figcaption>
-        <strong>01. Constellation<br>
-        02. Sans mot<br>
-        03. Bouclier<br>
-        04. Bout du monde<br>
-        05. Impossible<br>
-        06. Addiction remix<br>
-        07. Force remix</strong>
-      </figcaption>
-    </figure>
-  </div>
+<div class="gallery-row">
+  <figure>
+    <a href="https://too.fm/ethereal-break" target="_blank">
+      <img src="/images/ETHEREAL BREAK.png" alt="Vivid Sunrise">
+    </a>
+  </figure>
+    <figcaption>
+      <strong>01. Constellation<br>
+      02. Sans mot<br>
+      03. Bouclier<br>
+      04. Bout du monde<br>
+      05. Impossible<br>
+      06. Addiction remix<br>
+      07. Force remix</strong>
+    </figcaption>
 </div>
 
 <div class="gallery-images">
