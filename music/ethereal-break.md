@@ -8,14 +8,15 @@ permalink: /ethereal-break/
   <h2 class="gallery-title">ETHEREAL BREAK</h2>
 </div>
 
+<br>
+
 <div class="gallery-row">
   <figure>
     <a href="https://too.fm/ethereal-break" target="_blank">
       <img src="/images/ETHEREAL BREAK.png" alt="Vivid Sunrise">
     </a>
   </figure>
-    <figcaption>
-        <br>
+    <figcaption
         <strong>01. Constellation<br><br>
         02. Sans mot<br><br>
         03. Bouclier<br><br>
