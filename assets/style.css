@@ -391,3 +391,8 @@ font-family: 'BebasNeue', sans-serif;
     align-items: center;
     text-align: center;
   }
+
+  .gallery-row img {
+    max-width: 94vw;
+    max-height: 200px;
+  }
