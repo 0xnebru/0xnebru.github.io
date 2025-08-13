@@ -147,8 +147,10 @@ main {
   transition: transform 0.19s;
 }
 
-.gallery-row a:hover img {
+.gallery-row img:hover {
   transform: scale(1.045);
+  box-shadow: 0 4px 18px rgba(26,115,232,0.18);
+  transition: transform 0.19s, box-shadow .2s;;
 }
 
 .gallery-images {
