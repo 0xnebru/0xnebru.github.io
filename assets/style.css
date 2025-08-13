@@ -126,7 +126,7 @@ main {
 
 .gallery-row {
   display: flex;
-  align-items: flex-start;
+  align-items: center;
   gap: 7rem; 
   justify-content: center;
 }
