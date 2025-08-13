@@ -116,6 +116,7 @@ main {
   margin-bottom: 0.3em;
   font-family: 'BebasNeue', sans-serif;
   letter-spacing: 0.01em;
+  text-align: center;
   font-weight: 700;
 }
 .gallery-description {
