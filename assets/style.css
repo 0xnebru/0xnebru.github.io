@@ -146,7 +146,6 @@ main {
 }
 
 .gallery-row img {
-  border-radius: 8px;
   max-width: 250px;
   max-height: 250px;
   width: 100%;
@@ -183,7 +182,6 @@ main {
   box-shadow: 0 4px 18px rgba(26,115,232,0.18);
 }
 .gallery-images img {
-  border-radius: 8px;
   max-width: 250px;
   max-height: 250px;
   width: 100%;
