@@ -4,7 +4,7 @@ title: Nebru
 ---
 
 <section class="image-gallery">
-  <h2 class="gallery-title">MUSIQUE</h2>
+  <!--<h2 class="gallery-title">MUSIQUE</h2> -->
   <!-- <p class="gallery-description">A curated selection of recent pieces. Click an image to view it larger.</p> -->
   <div class="gallery-images">
     <figure>
