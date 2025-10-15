@@ -274,15 +274,16 @@ footer {
   outline: none;
   font-family: 'IntelOneMono', sans-serif;
   transition: box-shadow 0.2s, border 0.2s;
-  box-shadow: 0 1px 4px rgba(26,115,232,0.08);
+  box-shadow: 0 0px 4px rgba(26,115,232,0.08);
 }
 .footer-newsletter .newsletter-input:focus {
-  box-shadow: 0 2px 8px rgba(26,115,232,0.18);
+  box-shadow: 0 0px 8px rgba(26,115,232,0.18);
   border: 1.5px solid #1a73e8;
 }
 .footer-newsletter .newsletter-btn {
   padding: 0.75em 1.3em;
   border: none;
+  border-radius: 6px;
   background: linear-gradient(90deg,#15171c 0%,#15171c 100%);
   color: #f5f6fa;
   font-weight: 700;
