@@ -248,7 +248,7 @@ footer {
   margin: 2em auto 0 auto;
   text-align: center;
   display: block;
-  font-family: 'Intel One Mono', sans-serif
+  font-family: 'IntelOneMono', sans-serif;
 }
 .footer-newsletter .newsletter-label {
   display: block;
@@ -257,7 +257,7 @@ footer {
   font-weight: 700;
   letter-spacing: 0.01em;
   color: #15171c;
-  font-family: 'Intel One Mono', sans-serif;
+  font-family: 'IntelOneMono', sans-serif;
 }
 .footer-newsletter .newsletter-fields {
   display: flex;
@@ -272,7 +272,7 @@ footer {
   background: #f5f6fa;
   color: #15171c;
   outline: none;
-  font-family: 'Intel One Mono', sans-serif;
+  font-family: 'IntelOneMono', sans-serif;
   transition: box-shadow 0.2s, border 0.2s;
   box-shadow: 0 1px 4px rgba(26,115,232,0.08);
 }
@@ -301,7 +301,7 @@ footer {
   margin-top: 0.5em;
   font-size: 0.93em;
   color: #a6adc8;
-  font-family: 'Intel One Mono', sans-serif;
+  font-family: 'IntelOneMono', sans-serif;
 }
 .footer-copyright {
 font-family: 'BebasNeue', sans-serif;
