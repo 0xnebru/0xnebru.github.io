@@ -43,7 +43,6 @@ body {
   display: block;
 }
 
-/* Unified hover effect for logo, nav, and social icons */
 .header-nav a:hover,
 .header-nav a:focus {
   box-shadow: 0 0 14px rgba(26,115,232,0.16);
@@ -64,12 +63,12 @@ body {
 
 .header-nav {
   position: absolute;
-  left: 50%;
+  left: 52%;
   top: 50%;
   transform: translate(-50%, -50%);
   display: flex;
   justify-content: center;
-  gap: 1.3rem; /* Reduced space between nav elements */
+  gap: 0.3rem;
 }
 
 .header-nav a {
@@ -323,11 +322,11 @@ font-family: 'BebasNeue', sans-serif;
     min-height: 0;
   }
   .header-nav {
-    position: static;
-    left: unset;
+    position: relative;
+    left: 15px;
     top: unset;
     transform: none;
-    gap: 1.2rem;
+    gap: 0.2rem;
     font-size: 1.05em;
   }
   .header-social {
@@ -344,7 +343,7 @@ font-family: 'BebasNeue', sans-serif;
   }
 }
 
-/* Responsive for gallery and newsletter form */
+/* Responsive for mobile */
 @media (max-width: 800px) {
   .gallery-images {
     gap: 1.1em;
