@@ -10,7 +10,7 @@ title: Projects
         <img src="/images/looperman2.png" alt="Vivid Sunrise">
       </a>
       <figcaption>
-        <strong>FREE LOOPS ON LOOPERMAN</strong>
+        <strong>LOOPERMAN</strong>
       </figcaption>
     </figure>
   </div>
