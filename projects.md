@@ -4,5 +4,14 @@ title: Projects
 ---
 
 <section class="image-gallery">
-  <h2 class="gallery-title">AVAILABLE SOON</h2>
+  <div class="gallery-images">
+    <figure>
+      <a href="/looperman" target="_blank">
+        <img src="/images/looperman2.png" alt="Vivid Sunrise">
+      </a>
+      <figcaption>
+        <strong>FREE LOOPS ON LOOPERMAN</strong>
+      </figcaption>
+    </figure>
+  </div>
 </section>
