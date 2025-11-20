@@ -8,6 +8,14 @@ title: Nebru
   <!-- <p class="gallery-description">A curated selection of recent pieces. Click an image to view it larger.</p> -->
   <div class="gallery-images">
     <figure>
+      <a href="/new" target="_blank">
+        <img src="/images/black_square.jpg" alt="Vivid Sunrise">
+      </a>
+      <figcaption>
+        <strong>???</strong>
+      </figcaption>
+    </figure>
+    <figure>
       <a href="/ethereal-break" target="_blank">
         <img src="/images/ETHEREAL BREAK.png" alt="Vivid Sunrise">
       </a>
