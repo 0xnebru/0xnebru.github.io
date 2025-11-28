@@ -9,10 +9,10 @@ title: Nebru
   <div class="gallery-images">
     <figure>
       <a href="/new" target="_blank">
-        <img src="/images/black_square.jpg" alt="Vivid Sunrise">
+        <img src="/images/afterlife_cover.png" alt="Vivid Sunrise">
       </a>
       <figcaption>
-        <strong>???</strong>
+        <strong>ΛFTER\\LIFE</strong>
       </figcaption>
     </figure>
     <figure>
