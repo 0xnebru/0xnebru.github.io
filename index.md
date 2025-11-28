@@ -8,7 +8,7 @@ title: Nebru
   <!-- <p class="gallery-description">A curated selection of recent pieces. Click an image to view it larger.</p> -->
   <div class="gallery-images">
     <figure>
-      <a href="/new" target="_blank">
+      <a href="/afterlife" target="_blank">
         <img src="/images/afterlife_cover.png" alt="Vivid Sunrise">
       </a>
       <figcaption>
