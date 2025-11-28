@@ -47,14 +47,13 @@ title: Nebru
         <strong>HARD BREAKS, HEAVY RIFFS AND SMOOTH VOICES</strong>
       </figcaption>
     </figure>
-    <figure>
+    <!--<figure>
       <a href="https://too.fm/nebru-cxlxstical-take" target="_blank">
         <img src="/images/afterlife_vf.png" alt="Urban Stillness">
       </a>
       <figcaption>
         <strong>TAKE</strong>
       </figcaption>
-    </figure>
-    <!-- Add more images as needed -->
+    </figure>-->
   </div>
 </section>
