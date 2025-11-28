@@ -22,7 +22,7 @@ permalink: /afterlife/
         03. Can't get away (feat. Odarka)<br><br>
         04. I only know<br><br>
         05. Gimme somo (feat. Fost)<br><br>
-        06. Interlude (blame)<br><br>
+        06. Interlude (blame)(feat. Cxlxstical)<br><br>
         07. Crying angel (feat. Cxlxstical)<br><br>
         08. Take me/kill me (feat. Cxlxstical)<br><br>
         09. Wrong reality (feat. Cxlxstical)<br><br>
