@@ -7,15 +7,15 @@
 }
 body {
   font-family: 'IntelOneMono', sans-serif;
-  background: #f5f6fa;
-  color: #15171c;
+  background: #f5f7fd;
+  color: #2c2d2d;
   margin: 0;
   padding: 0;
 }
 
 .site-header {
   width: 100%;
-  background: #f5f6fa;
+  background: #f5f7fd;
   position: relative;
   top: 0;
   z-index: 100;
@@ -46,8 +46,8 @@ body {
 .header-nav a:hover,
 .header-nav a:focus {
   box-shadow: 0 0 14px rgba(26,115,232,0.16);
-  color: #f5f6fa;
-  background: #15171c;
+  color: #f5f7fd;
+  background: #2c2d2d;
   transition: box-shadow .2s, background .15s, color .15s;
 }
 
@@ -72,7 +72,7 @@ body {
 }
 
 .header-nav a {
-  color: #15171c;
+  color: #2c2d2d;
   text-decoration: none;
   font-weight: 500;
   font-size: 1.13em;
@@ -97,7 +97,7 @@ main {
   max-width: 1300px;
   margin: 2.5rem auto 2rem auto;
   padding: 0rem 1.5rem;
-  background: #f5f6fa;
+  background: #f5f7fd;
   border-radius: 18px;
 }
 
@@ -105,7 +105,7 @@ main {
   max-width: 1300px;
   margin: 2.5em auto 2em auto;
   padding: 0.1em 1em 2em 1em;
-  background: #f5f6fa;
+  background: #f5f7fd;
   border-radius: 18px;
   text-align: center;
 }
@@ -119,7 +119,7 @@ main {
   font-weight: 700;
 }
 .gallery-description {
-  color: #15171c;
+  color: #2c2d2d;
   font-size: 1.07em;
   margin-bottom: 2em;
 }
@@ -193,7 +193,7 @@ main {
   transform: scale(1.045);
 }
 .gallery-images figcaption {
-  color: #15171c;
+  color: #2c2d2d;
   font-size: 1.2em;
   margin-bottom: 0.2em;
   display: flex;
@@ -202,7 +202,7 @@ main {
   justify-content: center;
 }
 .gallery-images figcaption strong {
-  color: #15171c;
+  color: #2c2d2d;
   font-weight: 700;
   font-size: 1.07em;
   margin-bottom: 0.13em;
@@ -210,7 +210,7 @@ main {
 }
 .gallery-images figcaption span {
   font-size: 0.95em;
-  color: #15171c;
+  color: #2c2d2d;
 }
 
 footer {
@@ -255,7 +255,7 @@ footer {
   margin-bottom: 1em;
   font-weight: 700;
   letter-spacing: 0.01em;
-  color: #15171c;
+  color: #2c2d2d;
   font-family: 'IntelOneMono', sans-serif;
 }
 .footer-newsletter .newsletter-fields {
@@ -268,8 +268,8 @@ footer {
   padding: 0.75em 1em;
   border: none;
   font-size: 1em;
-  background: #f5f6fa;
-  color: #15171c;
+  background: #f5f7fd;
+  color: #2c2d2d;
   outline: none;
   font-family: 'IntelOneMono', sans-serif;
   transition: box-shadow 0.2s, border 0.2s;
@@ -284,7 +284,7 @@ footer {
   border: none;
   border-radius: 6px;
   background: linear-gradient(90deg,#15171c 0%,#15171c 100%);
-  color: #f5f6fa;
+  color: #f5f7fd;
   font-weight: 700;
   font-size: 1em;
   cursor: pointer;
