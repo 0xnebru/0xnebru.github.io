@@ -37,6 +37,6 @@ permalink: /afterlife/
     <p><a href="https://open.spotify.com/intl-fr/album/1utSA3NDairscqzw2LY6TG" target="_blank">spotify</a></p>
     <p><a href="https://music.apple.com/us/album/λfter-life/1856615955" target="_blank">apple music</a></p>
     <p><a href="https://soundcloud.com/nebru/sets/afterlife" target="_blank">soundcloud</a></p>
-    <p><a href="https://youtu.be/_A-SHCCxCQs" target="_blank">youtube</a></p>
+    <p><a href="https://youtu.be/tcZTnyfEzaA" target="_blank">youtube</a></p>
     <p><a href="https://www.deezer.com/fr/album/864815162" target="_blank">deezer</a></p>
 </div>
