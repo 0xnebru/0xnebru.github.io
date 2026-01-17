@@ -10,7 +10,16 @@ permalink: /persona-II/
 
 <br>
 
-<div class="gallery-row">
+<div class="iframe-container">
+  <iframe
+    data-testid="embed-iframe"
+    src="https://open.spotify.com/embed/album/5zSoyb6JA8YUQMrE6NOaM3?utm_source=generator"
+    frameborder="0"
+    allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+    loading="lazy"></iframe>
+</div>
+
+<!-- <div class="gallery-row">
   <figure>
     <a href="https://too.fm/persona-ii" target="_blank">
       <img src="/images/persona_II_final2.png" alt="Dreamscape">
@@ -23,7 +32,7 @@ permalink: /persona-II/
         04. In the end (ft. Deferlance)<br><br>
         05. Once, I met myself<br><br></strong>
     </figcaption>
-</div>
+</div> -->
 
 <div class="image-gallery">
     <p><a href="https://open.spotify.com/intl-fr/album/5zSoyb6JA8YUQMrE6NOaM3" target="_blank">spotify</a></p>
