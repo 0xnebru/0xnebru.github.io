@@ -421,7 +421,7 @@ font-family: 'BebasNeue', sans-serif;
 
 @media (max-width: 450px) {
   .iframe-container { 
-    width: 270px;
+    width: 300px;
     height: 152px;
   }
 }
