@@ -306,13 +306,22 @@ footer {
 .footer-copyright {
 font-family: 'BebasNeue', sans-serif;
 }
+
 .iframe-container {
-    width: 100%;
-    text-align: center;
+  width: 720px;
+  height: 360px;
+  margin: 0 auto;
+  overflow: hidden;     
+  border-radius: 12px;  
 }
+
 .iframe-container iframe {
-    margin: 0 auto;
-    display: block;
+  position: relative;
+  inset: 0;           
+  width: 100%;
+  height: 100%;
+  border: 0;
+  display: block;
 }
 
 @media (max-width: 1200px) {
@@ -410,12 +419,15 @@ font-family: 'BebasNeue', sans-serif;
     max-height: 200px;
   }
 
-@media (max-width: 600px) {
-  .iframe-container {
-    width: 100%;
-    text-align: center;
+@media (max-width: 450px) {
+  .iframe-container { 
+    width: 270px;
+    height: 152px;
   }
-  .iframe-container iframe {
-    margin: 0 auto;
-    display: block;
+}
+@media ((max-width: 768px) and (min-width: 451px)) {
+  .iframe-container {     
+    width: 450px;
+    height: 152px;
   }
+}
