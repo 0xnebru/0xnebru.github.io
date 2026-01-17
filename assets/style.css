@@ -409,3 +409,13 @@ font-family: 'BebasNeue', sans-serif;
     max-width: 94vw;
     max-height: 200px;
   }
+
+@media (max-width: 600px) {
+  .iframe-container {
+    width: 100%;
+    text-align: center;
+  }
+  .iframe-container iframe {
+    margin: 0 auto;
+    display: block;
+  }
