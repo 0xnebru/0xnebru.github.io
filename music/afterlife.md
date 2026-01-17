@@ -10,7 +10,16 @@ permalink: /afterlife/
 
 <br>
 
-<div class="gallery-row">
+<div class="iframe-container">
+  <iframe
+    data-testid="embed-iframe"
+    src="https://open.spotify.com/embed/album/1utSA3NDairscqzw2LY6TG?utm_source=generator&theme=0"
+    frameborder="0"
+    allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+    loading="lazy"></iframe>
+</div>
+
+<!-- <div class="gallery-row">
   <figure>
     <a href="https://too.fm/ethereal-break" target="_blank">
       <img src="/images/afterlife_cover.png" alt="Vivid Sunrise">
@@ -31,7 +40,7 @@ permalink: /afterlife/
         12. Fuck the shine<br><br>
         13. Life after</strong>
     </figcaption>
-</div>
+</div> -->
 
 <div class="image-gallery">
     <p><a href="https://open.spotify.com/intl-fr/album/1utSA3NDairscqzw2LY6TG" target="_blank">spotify</a></p>
