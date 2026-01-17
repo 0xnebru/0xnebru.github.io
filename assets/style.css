@@ -306,6 +306,14 @@ footer {
 .footer-copyright {
 font-family: 'BebasNeue', sans-serif;
 }
+.iframe-container {
+    width: 100%;
+    text-align: center;
+}
+.iframe-container iframe {
+    margin: 0 auto;
+    display: block;
+}
 
 @media (max-width: 1200px) {
   main,
