@@ -10,7 +10,16 @@ permalink: /hard-breaks/
 
 <br>
 
-<div class="gallery-row">
+<div class="iframe-container">
+  <iframe
+    data-testid="embed-iframe"
+    src="https://open.spotify.com/embed/album/7MPtZ1cdDGl9JGd5CP5qBP?utm_source=generato"
+    frameborder="0"
+    allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+    loading="lazy"></iframe>
+</div>
+
+<!-- <div class="gallery-row">
   <figure>
     <a href="https://too.fm/hardbreaks_heavyriffs_smoothvoices" target="_blank">
       <img src="/images/hard_breaks_site.png" alt="Urban Stillness">
@@ -21,7 +30,7 @@ permalink: /hard-breaks/
         02. I've been thinking about you (ft. Deferlance)<br><br>
         03. Not a fish in the sea (remix)(ft. Pushpa la Fleure)</strong>
       </figcaption>
-</div>
+</div> -->
 
 <div class="image-gallery">
     <p><a href="https://open.spotify.com/intl-fr/album/7MPtZ1cdDGl9JGd5CP5qBP" target="_blank">spotify</a></p>
