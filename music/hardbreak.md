@@ -13,7 +13,7 @@ permalink: /hard-breaks/
 <div class="iframe-container">
   <iframe
     data-testid="embed-iframe"
-    src="https://open.spotify.com/embed/album/7MPtZ1cdDGl9JGd5CP5qBP?utm_source=generato"
+    src="https://open.spotify.com/embed/album/7MPtZ1cdDGl9JGd5CP5qBP?utm_source=generator&theme=0"
     frameborder="0"
     allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
     loading="lazy"></iframe>
