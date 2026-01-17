@@ -10,7 +10,16 @@ permalink: /persona/
 
 <br>
 
-<div class="gallery-row">
+<div class="iframe-container">
+  <iframe
+    data-testid="embed-iframe"
+    src="https://open.spotify.com/embed/album/1vMtlzFFMZvV8ToJTw3Jtl?utm_source=generator"
+    frameborder="0"
+    allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+    loading="lazy"></iframe>
+</div>
+
+<!-- <div class="gallery-row">
   <figure>
     <a href="https://too.fm/persona" target="_blank">
       <img src="/images/persona_v1.png" alt="Urban Stillness">
@@ -26,7 +35,7 @@ permalink: /persona/
         07. Believe (ft. guilann)<br><br>
         08. Tenshi</strong>
     </figcaption>
-</div>
+</div> -->
 
 <div class="image-gallery">
     <p><a href="https://open.spotify.com/intl-fr/album/1vMtlzFFMZvV8ToJTw3Jtl" target="_blank">spotify</a></p>
