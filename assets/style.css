@@ -103,8 +103,8 @@ main {
 
 .image-gallery {
   max-width: 1300px;
-  margin: 2.5em auto 2em auto;
-  padding: 0.1em 1em 2em 1em;
+  margin: 2.5em auto 0em auto;
+  padding: 0.1em 1em 0em 1em;
   background: #f5f7fd;
   border-radius: 18px;
   text-align: center;
