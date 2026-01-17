@@ -13,7 +13,7 @@ permalink: /afterlife/
 <div class="iframe-container">
   <iframe
     data-testid="embed-iframe"
-    src="https://open.spotify.com/embed/album/1utSA3NDairscqzw2LY6TG?utm_source=generator&theme=0"
+    src="https://open.spotify.com/embed/album/1utSA3NDairscqzw2LY6TG?utm_source=generator"
     frameborder="0"
     allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
     loading="lazy"></iframe>
