@@ -8,7 +8,7 @@ title: Nebru
   <!-- <p class="gallery-description">A curated selection of recent pieces. Click an image to view it larger.</p> -->
   <div class="gallery-images">
     <figure>
-      <a href="/afterlife" target="_blank">
+      <a href="/afterlife" target="_self">
         <img src="/images/afterlife_cover.png" alt="Vivid Sunrise">
       </a>
       <figcaption>
@@ -16,7 +16,7 @@ title: Nebru
       </figcaption>
     </figure>
     <figure>
-      <a href="/ethereal-break" target="_blank">
+      <a href="/ethereal-break" target="_self">
         <img src="/images/ETHEREAL BREAK.png" alt="Vivid Sunrise">
       </a>
       <figcaption>
@@ -24,7 +24,7 @@ title: Nebru
       </figcaption>
     </figure>
     <figure>
-      <a href="/persona-II" target="_blank">
+      <a href="/persona-II" target="_self">
         <img src="/images/persona_II_final2.png" alt="Dreamscape">
       </a>
       <figcaption>
@@ -32,7 +32,7 @@ title: Nebru
       </figcaption>
     </figure>
     <figure>
-      <a href="/persona" target="_blank">
+      <a href="/persona" target="_self">
         <img src="/images/persona_v1.png" alt="Urban Stillness">
       </a>
       <figcaption>
@@ -40,7 +40,7 @@ title: Nebru
       </figcaption>
     </figure>
     <figure>
-      <a href="/hard-breaks" target="_blank">
+      <a href="/hard-breaks" target="_self">
         <img src="/images/hard_breaks_site.png" alt="Urban Stillness">
       </a>
       <figcaption>
@@ -48,7 +48,7 @@ title: Nebru
       </figcaption>
     </figure>
     <!--<figure>
-      <a href="https://too.fm/nebru-cxlxstical-take" target="_blank">
+      <a href="https://too.fm/nebru-cxlxstical-take" target="_self">
         <img src="/images/afterlife_vf.png" alt="Urban Stillness">
       </a>
       <figcaption>
