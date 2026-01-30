@@ -10,9 +10,8 @@ permalink: /god-complex/
 
 <br>
 
-<div>
+<div class="iframe-youtube">
   <iframe 
-    width="560" height="315" 
     src="https://www.youtube.com/embed/v92SBVMQXX0?si=A4R-gp1diS-9CijZ" 
     title="YouTube video player" 
     frameborder="0" 
