@@ -1,7 +1,7 @@
 ---
 layout: default
 title: GOD COMPLEX
-permalink: /god_complex/
+permalink: /god-complex/
 ---
 
 <div class="gallery-images">
