@@ -10,14 +10,15 @@ permalink: /god-complex/
 
 <br>
 
-<!--<div class="iframe-container">
-  <iframe
-    data-testid="embed-iframe"
-    src="https://open.spotify.com/embed/album/1utSA3NDairscqzw2LY6TG?utm_source=generator"
-    frameborder="0"
-    allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
-    loading="lazy"></iframe>
-</div>-->
+<div class="iframe-container">
+  <iframe 
+    width="560" height="315" 
+    src="https://www.youtube.com/embed/v92SBVMQXX0?si=A4R-gp1diS-9CijZ" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 <div class="image-gallery">
     <p><a href="https://open.spotify.com/intl-fr/track/7Be3AUsGuPefEkmU32oyCs?si=36aecc1ada0949cd" target="_blank">spotify</a></p>
