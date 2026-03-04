@@ -7,6 +7,14 @@ title: Nebru
   <!--<h2 class="gallery-title">MUSIQUE</h2> -->
   <!-- <p class="gallery-description">A curated selection of recent pieces. Click an image to view it larger.</p> -->
   <div class="gallery-images">
+     <figure>
+      <a href="/cd-r-2026" target="_self">
+        <img src="/images/cd-r-2026.png" alt="Vivid Sunrise">
+      </a>
+      <figcaption>
+        <strong>CD-R 2026</strong>
+      </figcaption>
+    </figure>
     <figure>
       <a href="/afterlife" target="_self">
         <img src="/images/afterlife_cover.png" alt="Vivid Sunrise">
